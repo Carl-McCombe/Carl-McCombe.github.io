@@ -1,3 +1,5 @@
 This website belongs to Carl McCombe
 ![Agar plate with bacterial colonies](/assets/images/agar_plate.png)
-Take a look at [Page 2](page_2.md) for more information.
+Read all [About Me!](about.md)
+Take a look at my [Blender Renders!](blender_renders.md)
+Check out my recent [Publications](publications.md)
