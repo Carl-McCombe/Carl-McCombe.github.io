@@ -1,2 +1,15 @@
 theme: jekyll-theme-cayman
 title: Carl McCombe
+
+
+nav:
+  - name:           "Home"
+    href:           "/README.md"
+  - name:           "About"
+    href:           "/about" 
+  - name:           "Publications"
+    href:           "/publications.md"
+  - name:           "Blender"
+    href:           "/blender_renders.md"
+  - name:           "Buns"
+    href:           "/buns.md"
