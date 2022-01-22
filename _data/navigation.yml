@@ -1,0 +1,15 @@
+# Site navigation links
+- title: Home
+  url: /index.md
+
+- title: About Me
+  url: /about.md
+
+- title: Publications
+  url: /publications.md
+
+- title: 3D Art
+  url: /bender_renders.md
+
+- title: Buns
+  url: /buns.md
