@@ -1,3 +1,8 @@
+---
+layout: default
+title: Publications and Peer Review
+---
+
 # Recent Publications
 
 ## Research Articles
