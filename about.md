@@ -1,3 +1,8 @@
+---
+layout: default
+title: About Me
+---
+
 # Who am I?
 
 I am a PhD student at The Australian National University studying the proteins that fungi use to infect plants. I spend most of my time purifying these fungal proteins, and conduct experiments to work out how they function. For my information on my research check out my [publications](publications.md).
