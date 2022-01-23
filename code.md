@@ -11,11 +11,11 @@ Some of these have featured in my [publications](/publications.md).
 
 - [Adding or removing codon spaces from nucleic acid sequences](/codingpages/codon_spaces.md)
 - [Automating RNA-seq read mapping and quantification using Salmon](/codingpages/RNA_seq.md)
-- [Analysing large protein datasets to identify Nudix hydrolases](/nudix.md)
-- [Predicting effectors with basic machine learning](/effector_prediction.md)
-- [Determing codon usage stats from large cDNA sequence datasets](/codon_usage.md)
-- [Searching for sequence-motifs in gene promoters](/promoters.md)
-- [Analysing the relative proportion of RNA-Seq reads mapping to the 5' and 3' ends of transcripts](/read_locations.md)
+- [Analysing large protein datasets to identify Nudix hydrolases](/codingpages/nudix.md)
+- [Predicting effectors with basic machine learning](/codingpages/effector_prediction.md)
+- [Determing codon usage stats from large cDNA sequence datasets](/codingpages/codon_usage.md)
+- [Searching for sequence-motifs in gene promoters](/codingpages/promoters.md)
+- [Analysing the relative proportion of RNA-Seq reads mapping to the 5' and 3' ends of transcripts](/codingpages/read_locations.md)
 
 ## Plots
 
