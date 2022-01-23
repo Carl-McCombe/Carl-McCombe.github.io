@@ -7,6 +7,8 @@ In 2020 I decided to learn basic programming and data visualisation using Python
 You can check out the various programs/plots I have made by clicking the links below (many of these pages are a work in progress, some links may not be functional yet).
 Some of these have featured in my [publications](/publications.md).
 
+[Test](/assets/ipython_notebooks/codon_usage.ipynb)
+
 ## Programs
 
 - [Adding or removing codon spaces from nucleic acid sequences](/codingpages/codon_spaces.md)
