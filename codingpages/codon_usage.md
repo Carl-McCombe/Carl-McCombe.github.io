@@ -5,11 +5,13 @@ title: Determining Codon Usage
 
 ## CDS Identifier & Codon Usage Calculator
 
-This notebook will take a fasta file filled with cDNA sequences and identify the cds (which the program assumes is the largest sequence present starting with a start codon and ending with an in-frame stop codon.
+[Download the notebook](/assets/ipython_notebooks/codon_usage.ipynb) or read below. 
+
+This notebook will take a fasta file filled with cDNA sequences and identify the cds (which the program assumes is the largest sequence present starting with a start codon and ending with an in-frame stop codon) for each sequence. It will then count all the in-frame codons for all sequences and return a csv file with counts for each codon. The final cell of the notebook can make simple figures with this information if desired. 
 
 ### Imports
 
-This notebook requires the re library, which comes pre-installed if installing Python via Anaconda (https://www.anaconda.com/products/individual). This cell also defines the dictionary used to store the counts for each codon, the starting value for all codons is 0.
+This notebook requires the re library, which comes pre-installed if installing Python via [Anaconda](https://www.anaconda.com/products/individual). This cell also defines the dictionary used to store the counts for each codon, the starting value for all codons is 0.
 
 ```python
 import re
@@ -135,6 +137,8 @@ for i in range(len(list_of_df)):
     plt.close()
  ```
  ### Example Image
+ Here is an example of one of the plots output by the cell above. 
+ 
  ![image](https://user-images.githubusercontent.com/96560726/151654962-632ca92a-9065-4f1b-90e9-6cff9105afd7.png)
 
  
