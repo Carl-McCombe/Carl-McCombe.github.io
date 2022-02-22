@@ -136,10 +136,11 @@ for i in range(len(list_of_df)):
     plt.show()
     plt.close()
  ```
- ### Example Image
- Here is an example of one of the plots output by the cell above. 
  
- ![image](https://user-images.githubusercontent.com/96560726/151654962-632ca92a-9065-4f1b-90e9-6cff9105afd7.png)
+### Example Image
+Here is an example of one of the plots output by the cell above. 
+ 
+![image](https://user-images.githubusercontent.com/96560726/151654962-632ca92a-9065-4f1b-90e9-6cff9105afd7.png)
 
  
  
