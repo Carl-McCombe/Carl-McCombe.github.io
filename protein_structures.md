@@ -17,6 +17,6 @@ In order to determine the structure of proteins we use a method called 'X-ray cr
 ![Protein crystal drop 3](/assets/images/crystal3.JPG)
 ![Protein crystal drop 4](/assets/images/crystal4.JPG)
 
-#Protein Structures 
+# Protein Structures 
 
 I'll update this section with my pdb files and images of my protein structures once I have uploaded them to the protein data bank. 
