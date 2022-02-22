@@ -6,6 +6,7 @@ title: Pet Pics
 # Buns!
 
 I am the proud pet parent of two adorable mini-lop rabbits, Ginny & Lyra. This page is filled with the cutest content on the internet.
+
 [Instagram](https://www.instagram.com/space.bunnss/)             |  [Instagram](https://www.instagram.com/space.bunnss/)
 :-------------------------:|:-------------------------:
 ![Mini-lop rabbits](/assets/images/buns2.jpg) | ![Mini-lop rabbits](/assets/images/buns3.jpg)
