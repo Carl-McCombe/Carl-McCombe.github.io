@@ -4,4 +4,4 @@ title: Carl McCombe
 ---
 
 
-[Crystals Test](/crystals.md)
+[Crystals Test](/protein_structures.md)
