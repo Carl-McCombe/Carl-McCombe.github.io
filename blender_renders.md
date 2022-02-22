@@ -17,6 +17,7 @@ Render 2:
 ## Cover Images 
 
 Cover 1: This cover image is inspired by a [publication](https://doi.org/10.1111/nph.17516) on Tox3, a small protein secreted by a wheat pathogen. This protein causes plant cell-death in susceptible wheat varieties leading to enhanced disease and yield loss. [Megan Outram](https://orcid.org/
-0000-0003-4510-3575) determined the structure of Tox3 and completed most of the work described in the paper 
+0000-0003-4510-3575) determined the structure of Tox3 and completed most of the work described in the paper.
+
 ![Cover image for a scientific journal](/assets/images/Tox3_cover.png)
 
