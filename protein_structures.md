@@ -6,7 +6,7 @@ title: Protein Structures & Crystals
 
 # Plant Structural Immunology
 
-I am completing my PhD in the [Williams Lab](https://biology.anu.edu.au/research/groups/williams-group-plant-structural-immunology) at The Australian National University. We are a 'Plant Structural Immunology' group, meaning that our research centres around understanding plant diseases and immunity by determining the 3-D structures of proteins involved in pathogenesis. As protein structure is a key determinant of protein function, we can use the structures to work out how the protein functions to prevent or promote disease. 
+I am completing my PhD in the [Williams Lab](https://biology.anu.edu.au/research/groups/williams-group-plant-structural-immunology) at The Australian National University. We are a 'Plant Structural Immunology' group, meaning that our research centres around understanding plant diseases and immunity by determining the 3-D structures of proteins involved in pathogenesis. As protein structure is a key determinant of protein function, we can use the structures to work out how the proteins function to prevent or promote disease.
 
 # Protein Crystals 
 

@@ -21,3 +21,7 @@ Cover 1: This cover image is inspired by a [publication](https://doi.org/10.1111
 
 ![Cover image for a scientific journal](/assets/images/Tox3_cover.png)
 
+Cover 2: At the start of 2022 I wrote a review on plant immunity against biotrophic, hemibiotrophic, and necrotrophic fungi. For the review I designed and produced a cover image that showcases a couple of groundbreaking structures of plant immunity receptors.
+
+![Cover image for a scientific journal](/assets/images/review_cover.png) 	
+
