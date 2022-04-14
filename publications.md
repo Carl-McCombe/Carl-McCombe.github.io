@@ -17,6 +17,10 @@ McCombe et al., 2022
 ## Review Articles
 
 McCombe et al., 2022
+Molecular plant immunity against biotrophic, hemibiotrophic, and necrotrophic fungi
+[Essays in Biochemistry](https://portlandpress.com/essaysbiochem)
+- [PDF](/assets/papers/)
+- [Online Version]()
 
 # Reviewer Activity
 
