@@ -12,11 +12,9 @@ I am completing my PhD in the [Williams Lab](https://biology.anu.edu.au/research
 AvrM14-A Monomer | PDB ID: [8DP8](https://www.rcsb.org/structure/unreleased/8DP8)
 
 ![AvrM14-A Monomeric Structure](/assets/images/avrm14_a_monomer.png)
-
 AvrM14-B Monomer | PDB ID: [8DP9](https://www.rcsb.org/structure/unreleased/8DP9)
 
 ![AvrM14-B Monomeric Structure](/assets/images/avrm14_b_monomer.png)
-
 AvrM14-B Homodimer | PDB ID: [8DPA](https://www.rcsb.org/structure/unreleased/8DPA)
 
 ![AvrM14-B Homodimeric Structure](/assets/images/avrm14_b_dimer.png)
