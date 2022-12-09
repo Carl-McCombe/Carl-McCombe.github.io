@@ -9,6 +9,6 @@ This Github Pages website was created by me (Carl McCombe) to showcase and publi
 
 carl.mccombe@anu.edu.au
 
-[Twitter](https://twitter.com/Carl_McCombe)
+<a href="https://twitter.com/Carl_McCombe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Carl_McCombe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
