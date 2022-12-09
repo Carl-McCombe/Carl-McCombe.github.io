@@ -1,3 +1,8 @@
+---
+layout: default
+title: CV
+---
+
 <!DOCTYPE html>
 <html>
 <head>
