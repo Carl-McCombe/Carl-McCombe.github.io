@@ -12,21 +12,21 @@ title: CV
   <h1>My CV</h1>
   <h2>Personal Information</h2>
   <p>
-    Name: John Doe<br>
-    Address: 123 Main Street, Anytown, USA<br>
-    Phone: (123) 456-7890<br>
-    Email: john.doe@gmail.com
+    Name: Carl McCombe<br>
+    City: Canberra, Australia<br>
+    Email: carl.mccombe@anu.edu.au
   </p>
   <h2>Education</h2>
-  <h3>Bachelor of Science in Computer Science</h3>
+  <h3>Bachelor of Science (Honours)</h3>
   <p>
-    Institution: University of California, Berkeley<br>
-    Graduation Date: May 2023
+    Thesis Title: The structure and RNA decapping activity of flax rust effector AvrM14<br>
+    Institution: The Australian National University, Canberra<br>
+    Graduation Date: November 2019
   </p>
-  <h3>Associate of Science in Computer Science</h3>
+  <h3>Bachelor of Science (Biotechnology) (Enhanced Program for High Achievers)</h3>
   <p>
-    Institution: San Francisco City College<br>
-    Graduation Date: May 2021
+    Institution: Flinders University, Adelaide<br>
+    Graduation Date: November 2018
   </p>
   <h2>Experience</h2>
   <h3>Software Engineer</h3>
