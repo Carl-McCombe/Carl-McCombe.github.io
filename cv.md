@@ -3,13 +3,54 @@ layout: default
 title: CV
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
   <title>My CV</title>
   <style>
-    /* Add your own CSS styles here */
+    body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #333;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0099ff;
+  text-decoration: underline;
+}
+
+p {
+  margin: 0 0 1em 0;
+  padding: 0;
+}
+
+ul, ol {
+  margin: 0 0 1em 0;
+  padding: 0 0 0 2em;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border: 0;
+}
   </style>
 </head>
 <body>
