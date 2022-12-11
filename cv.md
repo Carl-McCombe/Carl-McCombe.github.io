@@ -27,15 +27,16 @@ title: CV
   <p>
     Thesis Title: The structure and RNA decapping activity of flax rust effector AvrM14<br>
     Institution: The Australian National University, Canberra<br>
-    Duration: January 2019 - November 2019
-    GPA: 7/7 (Awarded University Medal)
-    <a href=[]>Academic Transcript
+    Duration: January 2019 - November 2019<br>
+    GPA: 7/7 (Awarded University Medal)<br>
+    <a href="https://carl-mccombe.github.io/assets/transcripts/ANU.pdf">Academic Transcript</a>
   </p>
   <h3>Bachelor of Science (Biotechnology) (Enhanced Program for High Achievers)</h3>
   <p>
     Institution: Flinders University, Adelaide<br>
-    Duration: February 2016 - November 2018
-    GPA: 6.95/7
+    Duration: February 2016 - November 2018<br>
+    GPA: 6.95/7<br>
+    <a href="https://carl-mccombe.github.io/assets/transcripts/Flinders.pdf">Academic Transcript</a>
   </p>
   <h2>Research Experience</h2>
   <h3>PhD Student</h3>
