@@ -6,7 +6,6 @@ title: CV
 <html>
   <meta charset="utf-8">
 <body>
-  <h1>My CV</h1>
   <h2>Personal Information</h2>
   <p>
     Name: Carl McCombe<br>
@@ -54,15 +53,15 @@ title: CV
   </p>
   <h2>Research Skills</h2>
   <ul>
-    <li>Recombinant protein expression + purification (_E. coli, N. benthiamana_)</li>
-    <li>Fast protein liquid chromatography (FPLC) using AKTA systems</li>
-    <li>Various enzyme assays (especially for Nudix hydrolases)</li>
-    <li>RNA purification + RT-qPCR</li>
-    <li>RNA-sequencing data analysis</li>
-    <li>RNA synthesis, 5' capping, and radiolabelling</li>
-    <li>Western blotting</li>
-    <li>Molecular cloning (especially GoldenGate cloning)</li>
-    <li>Programming languages: Python (especially for organising large datasets and data visualisation)<li>
+    <li>Recombinant protein expression + purification (<em>E. coli</em>, <em>N. benthiamana</em>)
+    <li>Fast protein liquid chromatography (FPLC) using AKTA systems
+    <li>Various enzyme assays (especially for Nudix hydrolases)
+    <li>RNA purification + RT-qPCR
+    <li>RNA-sequencing data analysis
+    <li>RNA synthesis, 5' capping, and radiolabelling
+    <li>Western blotting
+    <li>Molecular cloning (especially GoldenGate cloning)
+    <li>Programming languages: Python (especially for organising large datasets and data visualisation)</li>
   </ul>
 </body>
 </html>
