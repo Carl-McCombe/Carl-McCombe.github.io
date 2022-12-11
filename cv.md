@@ -4,10 +4,7 @@ title: CV
 ---
 
 <html>
-<head>
   <meta charset="utf-8">
-  <title>My CV</title>
-</head>
 <body>
   <h1>My CV</h1>
   <h2>Personal Information</h2>
@@ -57,15 +54,15 @@ title: CV
   </p>
   <h2>Research Skills</h2>
   <ul>
-    <li>Recombinant protein expression + purification (E. coli, N. benthiamana)</li>
+    <li>Recombinant protein expression + purification (_E. coli, N. benthiamana_)</li>
     <li>Fast protein liquid chromatography (FPLC) using AKTA systems</li>
-    <li>Various enzyme assays (especially for Nudix hydrolases)<li>
+    <li>Various enzyme assays (especially for Nudix hydrolases)</li>
     <li>RNA purification + RT-qPCR</li>
     <li>RNA-sequencing data analysis</li>
-    <li>RNA synthesis, 5' capping, and radiolabelling<li>
+    <li>RNA synthesis, 5' capping, and radiolabelling</li>
     <li>Western blotting</li>
     <li>Molecular cloning (especially GoldenGate cloning)</li>
-    <li>Programming languages: Python (especially for organising large datasets and data visualisation)</li>
+    <li>Programming languages: Python (especially for organising large datasets and data visualisation)<li>
   </ul>
 </body>
 </html>
