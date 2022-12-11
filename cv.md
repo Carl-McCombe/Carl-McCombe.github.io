@@ -11,7 +11,7 @@ title: CV
     Name: Carl McCombe<br>
     City: Canberra, Australia<br>
     Email: carl.mccombe@anu.edu.au<br>
-    <a href="[https://orcid.org/0000-0001-9347-887]">ORCID</a><br>
+    <a href="https://orcid.org/0000-0001-9347-887">ORCID</a><br>
     <a href="https://twitter.com/Carl_McCombe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Carl_McCombe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </p>
   <h2>Education</h2>
