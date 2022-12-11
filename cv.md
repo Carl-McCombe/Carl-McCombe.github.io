@@ -8,10 +8,12 @@ title: CV
 <body>
   <h2>Personal Information</h2>
   <p>
-    Name: Carl McCombe<br>
+    Name: Carl McCombe
+    <a href="https://orcid.org/0000-0001-9347-887">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+</a><br>
     City: Canberra, Australia<br>
     Email: carl.mccombe@anu.edu.au<br>
-    <a href="https://orcid.org/0000-0001-9347-887">ORCID</a><br>
     <a href="https://twitter.com/Carl_McCombe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Carl_McCombe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </p>
   <h2>Education</h2>
