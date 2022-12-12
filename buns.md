@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pet Pics
+title: CarlMcCombe
 ---
 
 # Buns!
