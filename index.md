@@ -3,7 +3,7 @@ layout: default
 title: CarlMcCombe
 description: PhD Candidate at The Australian National University
 ---
-### Contact Information
+## Contact Information
  Name: Carl McCombe
     <a href="https://orcid.org/0000-0001-9347-887">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="18" height="18" />
