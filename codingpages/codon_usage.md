@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Determining Codon Usage
+title: CarlMcCombe
+description: PhD Candidate at The Australian National University
 ---
 
 ## CDS Identifier & Codon Usage Calculator
