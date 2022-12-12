@@ -25,3 +25,9 @@ Jones, and Simon J. Williams (2022)<br>
 I have acted as a reviewer for;
 
 - [Journal of Experimental Botany](https://academic.oup.com/jxb)
+
+## Conference Presentations
+
+- Stromlo plant-microbe interactions 2022
+- Combio 2022 (Canberra Protein Group Award Presentation)
+- East Coast Protein Meeting 2022 (Runner-up best student talk)
