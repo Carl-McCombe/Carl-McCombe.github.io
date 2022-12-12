@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Me
+title: CarlMcCombe
 ---
 
 # Who am I?
