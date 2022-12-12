@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Carl McCombe
+title: CarlMcCombe
 ---
 
 This Github Pages website was created by me (Carl McCombe) to showcase and publicise my work as a molecular biologist working in plant science.
