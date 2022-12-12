@@ -23,8 +23,9 @@ AvrM14-B Homodimer | PDB ID: [8DPA](https://www.rcsb.org/structure/unreleased/8D
 # Protein Crystals 
 
 In order to determine the structure of proteins we use a method called 'X-ray crystallography'. This requires the protein to first be purified and then crystallised. Below are some of the more aesthetic protein crystals that I have produced during my PhD.  
-
-![Protein crystal drop 1](/assets/images/crystal1.JPG)
-![Protein crystal drop 2](/assets/images/crystal2.JPG)
-![Protein crystal drop 3](/assets/images/crystal3.JPG)
-![Protein crystal drop 4](/assets/images/crystal4.JPG)
+<marquee>
+  <img src="https://carl-mccombe.github.io/assets/images/crystal1.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal2.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal3.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal4.JPG" alt="Picture of a protein crystal">
+</marquee>
