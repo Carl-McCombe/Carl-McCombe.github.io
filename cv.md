@@ -34,7 +34,6 @@ description: PhD Candidate at The Australian National University
     Institution: The Australian National University<br>
     Duration: November 2018 - January 2019<br>
   <h3>CSE Summer Research Award</h3>
-  <p>
     Institution: Flinders University<br>
     Duration: November 2017 - January 2018<br>
   <h2>Research Skills</h2>
@@ -59,5 +58,3 @@ description: PhD Candidate at The Australian National University
     <li><a href="https://biology.anu.edu.au/about/awards/ainse-honours-scholarship-stipend">Honours Scholarship - Australian Institute of Nuclear Science and Engineering </a>
     <li>Chancellor's Letter of Commendation 2016/2017/2018 - Flinders University
     <li>Dux - Casterton Secondary College
-</body>
-</html>
