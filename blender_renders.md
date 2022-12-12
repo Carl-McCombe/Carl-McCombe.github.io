@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SciArt
+title: CarlMcCombe
 ---
 
 ## Single Image Renders
