@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Coding Projects 
+title: CarlMcCombe
 ---
 
 In 2020 I decided to learn basic programming and data visualisation using Python by following YouTube tutorials and completing small projects. 
