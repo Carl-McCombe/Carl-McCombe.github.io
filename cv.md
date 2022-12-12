@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CV
+title: CarlMcCombe
 ---
 
 <html>
@@ -81,5 +81,8 @@ title: CV
     <li><a href="https://biology.anu.edu.au/about/awards/university-medal-6">University Medal - The Australian National University</a>
     <li><a href="https://biology.anu.edu.au/about/awards/rsb-directors-prize-honours-2">RSB Director's Prize in Honours - The Australian National University</a>
     <li><a href="https://biology.anu.edu.au/about/awards/ainse-honours-scholarship-stipend">Honours Scholarship - Australian Institute of Nuclear Science and Engineering </a>
+    <li>Chancellor's Letter of Commendation 2016/2017/2018 - Flinders University
+    <li>Dux - Casterton Secondary College
+  </ul>
 </body>
 </html>
