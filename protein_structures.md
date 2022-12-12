@@ -28,4 +28,48 @@ In order to determine the structure of proteins we use a method called 'X-ray cr
   <img src="https://carl-mccombe.github.io/assets/images/crystal2.JPG" alt="Picture of a protein crystal">
   <img src="https://carl-mccombe.github.io/assets/images/crystal3.JPG" alt="Picture of a protein crystal">
   <img src="https://carl-mccombe.github.io/assets/images/crystal4.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal1.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal2.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal3.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal4.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal1.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal2.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal3.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal4.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal1.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal2.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal3.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal4.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal1.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal2.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal3.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal4.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal1.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal2.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal3.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal4.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal1.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal2.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal3.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal4.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal1.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal2.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal3.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal4.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal1.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal2.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal3.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal4.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal1.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal2.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal3.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal4.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal1.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal2.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal3.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal4.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal1.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal2.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal3.JPG" alt="Picture of a protein crystal">
+  <img src="https://carl-mccombe.github.io/assets/images/crystal4.JPG" alt="Picture of a protein crystal">
 </marquee>
