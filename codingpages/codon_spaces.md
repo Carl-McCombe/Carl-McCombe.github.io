@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Codon Spaces
+title: CarlMcCombe
+description: PhD Candidate at The Australian National University
 ---
 
 ## Adding or Removing Spaces between Codons
