@@ -1,4 +1,7 @@
 ---
 layout: default
-title: Size-Exclusion Chromatography Data Visualisation
+title: CarlMcCombe
+description: PhD Candidate at The Australian National University
 ---
+# Size-Exclusion Chromatography Data Visualisation
+
