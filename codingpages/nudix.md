@@ -257,3 +257,5 @@ canonicalNudixchart(protein_dataframe, savepath)
 Nudix_box_dataframe = Nudixposition(onlycanonical, savepath)
 ```
 ### Example Results 
+
+![PieChart](/assets/images/pie_chart.png)![NudixPos](/assets/images/nudix_position3.png)
