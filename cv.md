@@ -61,8 +61,8 @@ description: PhD Candidate at The Australian National University
     <li>Western blotting
     <li>Molecular cloning (especially GoldenGate cloning)
     <li>Programming languages: Python (especially for organising large datasets and data visualisation)</li>
+  </ul>  
   <h2>Awards</h2>
-  </ul>
   <ul>
     <li><a href="https://biology.anu.edu.au/study/rsb-student-scholarships-prizes/hiroto-naora-graduate-student-travel-scholarship">Hirota Naora Award - Best presentation award at the 2022 Research School of Biology HDR conference
     <li><a href="https://twitter.com/CanberraPG/status/1542266659704115201">Canberra Protein Group award presentation at Combio 2022 </a>
