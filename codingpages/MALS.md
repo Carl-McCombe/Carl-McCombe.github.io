@@ -1,6 +1,7 @@
 ---
 layout: default
-title: SEC-MALS Data Visualisation
+title: CarlMcCombe
+description: PhD Candidate at The Australian National University
 ---
 
 ## Plotting SEC-MALS Data 
