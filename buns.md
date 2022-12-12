@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Pet Pics
+title: CarlMcCombe
+description: PhD Candidate at The Australian National University
 ---
 
 # Buns!

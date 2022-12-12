@@ -1,31 +1,26 @@
 ---
 layout: default
-title: Publications and Peer Review
+title: CarlMcCombe
+description: PhD Candidate at The Australian National University
 ---
 
-# Recent Publications
+## Recent Publications
 
-## Research Articles
+**Carl L. McCombe**, Ann-Maree Catanzariti, Julian R. Greenwood, Anna M. Desai, Megan A. Outram, Daniel S. Yu, Daniel J. Ericsson, Steven E. Brenner, Peter N. Dodds, Bostjan Kobe, David A. Jones, and Simon J. Williams (2023)<br>
+**[A rust-fungus Nudix hydrolase effector decaps mRNA in vitro and interferes with plant immune pathways](TBA)**
+[PDF](/assets/papers/TBA)
 
-Yu et al., 2021
+Daniel S. Yu, Megan A. Outram, Ashley Smith, **Carl L. McCombe**, Pravin B.
+Khambalkar, Sharmin A. Rima, Xizhe Sun, Lisong Ma, Daniel J. Ericsson, David A.
+Jones, and Simon J. Williams (2022)<br>
+**[The structural repertoire of Fusarium oxysporum f. sp. lycopersici effectors revealed by experimental and computational studies](https://doi.org/10.1101/2021.12.14.472499)**, _bioXriv_
+[PDF](/assets/papers/Yu_2022.pdf)
 
-The structural repertoire of Fusarium oxysporum f. sp. lycopersici effectors revealed by experimental and computational studies
-- [PDF](/assets/papers/Yu_2021.pdf) 
-- [Online Version](https://doi.org/10.1101/2021.12.14.472499) 
+**Carl L. McCombe**, Julian R. Greenwood, Peter S. Solomon, and Simon J. Williams (2022)<br>
+**[Molecular plant immunity against biotrophic, hemibiotrophic, and necrotrophic fungi](https://doi.org/10.1042/EBC20210073)**
+[PDF](/assets/papers/Mccombe_2022.pdf)
 
-McCombe et al., 2022
-
-## Review Articles
-
-McCombe et al., 2022
-
-Molecular plant immunity against biotrophic, hemibiotrophic, and necrotrophic fungi
-
-[Essays in Biochemistry](https://portlandpress.com/essaysbiochem)
-- [PDF](/assets/papers/)
-- [Online Version]()
-
-# Reviewer Activity
+## Reviewer Activity
 
 I have acted as a reviewer for;
 

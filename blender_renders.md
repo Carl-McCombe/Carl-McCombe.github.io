@@ -1,6 +1,7 @@
 ---
 layout: default
-title: SciArt
+title: CarlMcCombe
+description: PhD Candidate at The Australian National University
 ---
 
 ## Single Image Renders
