@@ -1,10 +1,11 @@
 ---
 layout: default
 title: CarlMcCombe
+description: PhD Candidate at The Australian National University
 ---
 
 In 2020 I decided to learn basic programming and data visualisation using Python by following YouTube tutorials and completing small projects. 
-You can check out the various programs/plots I have made by clicking the links below (many of these pages are a work in progress, some links may not be functional yet).
+You can check out some of the various programs/plots I have made by clicking the links below.
 
 
 ## Programs
