@@ -9,47 +9,34 @@ description: PhD Candidate at The Australian National University
 <body>
   <h2>Education</h2>
   <h3>Doctor of Philosophy (Biology)</h3>
-  <p>
     Thesis Title: Exploring the roles of Nudix hydrolases in plant-microbe interactions<br>
     Institution: The Australian National University, Canberra<br>
     Duration: March 2020 - Present
-  </p>
   <h3>Bachelor of Science (Honours)</h3>
-  <p>
     Thesis Title: The structure and RNA decapping activity of flax rust effector AvrM14<br>
     Institution: The Australian National University, Canberra<br>
     Duration: January 2019 - November 2019<br>
     GPA: 7/7 (Awarded University Medal)<br>
     <a href="https://carl-mccombe.github.io/assets/transcripts/ANU.pdf">Academic Transcript</a>
-  </p>
   <h3>Bachelor of Science (Biotechnology) (Enhanced Program for High Achievers)</h3>
-  <p>
     Institution: Flinders University, Adelaide<br>
     Duration: February 2016 - November 2018<br>
     GPA: 6.95/7<br>
     <a href="https://carl-mccombe.github.io/assets/transcripts/Flinders.pdf">Academic Transcript</a>
-  </p>
   <h2>Research Experience</h2>
   <h3>PhD Student</h3>
-  <p>
     Institution: The Australian National University<br>
     Duration: March 2020 - Present<br>
-  </p>
   <h3>Honours Student</h3>
-  <p>
     Institution: The Australian National University<br>
     Duration: January 2019 - November 2019<br>
-  </p>
   <h3>Summer Scholar</h3>
-  <p>
     Institution: The Australian National University<br>
     Duration: November 2018 - January 2019<br>
-  </p>
   <h3>CSE Summer Research Award</h3>
   <p>
     Institution: Flinders University<br>
     Duration: November 2017 - January 2018<br>
-  </p>
   <h2>Research Skills</h2>
   <ul>
     <li>Recombinant protein expression + purification (<em>E. coli</em>, <em>N. benthiamana</em>)
