@@ -58,4 +58,6 @@ plt.savefig('savelocation/filename', dpi=600, bbox_inches='tight')
 ```
 ### Example plot 
 I used a slightly modified version of this code to produce the SEC-MALS plot below. 
+
+
 ![SEC-MALS Plot](/assets/images/MALS.png)
