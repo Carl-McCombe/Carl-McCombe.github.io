@@ -8,6 +8,8 @@ The purpose of this program is to identify Nudix hydrolases from sequences in FA
 
 It would be relatively easy to alter this code to look for other motifs in sequences.
 
+Note: This has been designed for sequences with the Interpro fasta heading format, if using a fasta file not from Interpro some minor modifications to the first function may be required in order to import all of the information for each sequence. 
+
 ### Imports & settings
 The pd.set_option removes the width limits for the dataframes when displayed in the viewport, this enables the user to see the complete protein sequence when displaying dataframes.
 ```python
@@ -22,7 +24,7 @@ Nudix_motif = '..G.....[ED].......RE..EE.G.' # Whatever sequence you want to fin
 Nudix_motif_compile = re.compile(Nudix_motif) # re.compile turns our string into a regular expression. 
 ```
 ### Functions
-The first function is the most complex and extracts all the necessary information from the sequences. The next two functions convert this information into graphics.
+The first function is the most complex and extracts all the necessary information from the sequences. The next two functions convert this information into graphics. The first graphic is a pie chart simply showing the proportion of proteins in the fasta file that have the specified sequence. The second 
 ```python
 def prepareFASTAfile(file_location):
     '''This function takes a text file with any number of protein sequences in FASTA format and returns 
@@ -257,5 +259,6 @@ canonicalNudixchart(protein_dataframe, savepath)
 Nudix_box_dataframe = Nudixposition(onlycanonical, savepath)
 ```
 ### Example Results 
+Note that the final dataframe is called Nudix_box_dataframe and contains the identification information for matching proteins along with their sequences. 
 
 ![PieChart](/assets/images/pie_chart.png)![NudixPos](/assets/images/nudix_position3.png)
