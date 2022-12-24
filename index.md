@@ -4,7 +4,7 @@ title: CarlMcCombe
 description: PhD Candidate at The Australian National University
 ---
 # Who am I?
-![Photo of Carl](/assets/images/carl.png)
+![Photo of Carl](/assets/images/carl.png) | width=100)
 
 Hi, my name is Carl and I am a PhD student at The Australian National University. I am passionate about molecular biology, and am thrilled to be able to spend my days conducting research into the functions of proteins involved in plant-microbe interactions. I have had the opportunity to contribute to several publications in my field, and I am excited to continue this work in the future. If you'd like to learn more about my research, please check out my [publications](publications.md) page. 
 
