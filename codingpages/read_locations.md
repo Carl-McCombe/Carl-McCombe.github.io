@@ -1,4 +1,6 @@
 ---
 layout: default
-title: Analysis of RNA-seq Read Mapping Locations along Transcripts
+title: CarlMcCombe
+description: PhD Candidate at The Australian National University
 ---
+# Analysis of RNA-seq Read Mapping Locations along Transcripts

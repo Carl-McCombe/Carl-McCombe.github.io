@@ -1,4 +1,7 @@
 ---
 layout: default
-title: Simple, Simultaneous, RNA-Seq Barcharts
+title: CarlMcCombe
+description: PhD Candidate at The Australian National University
 ---
+# Simple, Simultaneous, RNA-Seq Barcharts
+

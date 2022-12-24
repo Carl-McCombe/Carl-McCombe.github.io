@@ -1,4 +1,6 @@
 ---
 layout: default
-title: Analysing Promoter Sequences
+title: CarlMcCombe
+description: PhD Candidate at The Australian National University
 ---
+# Analysing Promoter Sequences

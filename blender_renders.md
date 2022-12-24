@@ -1,15 +1,12 @@
 ---
 layout: default
-title: Blender Renders
+title: CarlMcCombe
+description: PhD Candidate at The Australian National University
 ---
-
-# Blender3D Art
-
-Still only just starting to scratch the surface of what Blender is capable of. Most of my renders are science-related (love seeing my favourite proteins in all their glory), I also attempt to make a cover image for every publication I'm involved in. 
 
 ## Single Image Renders
 
-Render 1: An agar plate with E. coli colonies, one of my first renders assisted by a [Luminous Lab](https://www.youtube.com/c/LuminousLab) tutorial.
+Render 1: An agar plate with E. coli colonies, one of my first blender renders assisted by a [Luminous Lab](https://www.youtube.com/c/LuminousLab) tutorial.
 ![Agar plate with bacterial colonies](/assets/images/agar_plate.png)
 
 Render 2:
@@ -21,7 +18,7 @@ Cover 1: This cover image is inspired by a [publication](https://doi.org/10.1111
 
 ![Cover image for a scientific journal](/assets/images/Tox3_cover.png)
 
-Cover 2: At the start of 2022 I wrote a review on plant immunity against biotrophic, hemibiotrophic, and necrotrophic fungi. For the review I designed and produced a cover image that showcases a couple of groundbreaking structures of plant immunity receptors.
+Cover 2: At the start of 2022 I wrote a [review](https://portlandpress.com/essaysbiochem/article/66/5/581/231321/Molecular-plant-immunity-against-biotrophic) on plant immunity against biotrophic, hemibiotrophic, and necrotrophic fungi. For the review I designed and produced a cover image that showcases a couple of groundbreaking structures of plant immunity receptors.
 
 ![Cover image for a scientific journal](/assets/images/review_cover.png) 	
 
