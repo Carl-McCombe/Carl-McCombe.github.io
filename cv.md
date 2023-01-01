@@ -46,6 +46,7 @@ description: PhD Candidate at The Australian National University
     <li>RNA synthesis, 5' capping, and radiolabelling
     <li>Western blotting
     <li>Molecular cloning (especially GoldenGate cloning)
+    <li>Nanopore library preparation for COVID-19 genome sequencing
     <li>Programming languages: Python (especially for organising large datasets and data visualisation)</li>  
   <h2>Awards</h2>
     <li><a href="https://biology.anu.edu.au/study/rsb-student-scholarships-prizes/hiroto-naora-graduate-student-travel-scholarship">Hirota Naora Award - Best presentation award at the 2022 Research School of Biology HDR conference
@@ -57,4 +58,13 @@ description: PhD Candidate at The Australian National University
     <li><a href="https://biology.anu.edu.au/about/awards/rsb-directors-prize-honours-2">RSB Director's Prize in Honours - The Australian National University</a>
     <li><a href="https://biology.anu.edu.au/about/awards/ainse-honours-scholarship-stipend">Honours Scholarship - Australian Institute of Nuclear Science and Engineering </a>
     <li>Chancellor's Letter of Commendation 2016/2017/2018 - Flinders University
-    <li>Dux - Casterton Secondary College
+    <li>Dux - Casterton Secondary College</li>
+  <h2>Teaching Experience</h2>
+      <h3>Lab demonstrating and report marking in <a href="https://programsandcourses.anu.edu.au/course/BIOL2171">BIOL2171</a>Biochemistry & Nutrition</h3>
+      
+      <h3>Lab demonstrating and report marking in <a href="https://programsandcourses.anu.edu.au/course/BIOL2142">BIOL2142</a>General Microbiology</h3>
+      
+      <h3>Workshop Tutor<a href="https://programsandcourses.anu.edu.au/course/BIOL2162">BIOL2162</a>Molecular Gene Technology</h3>
+      
+      <h3>Supervising Undergraduate Research Projects for <a href="https://programsandcourses.anu.edu.au/program/aphsc">PhB Students</a></h3>
+      
