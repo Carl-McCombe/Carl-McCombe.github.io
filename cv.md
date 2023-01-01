@@ -27,6 +27,8 @@ description: PhD Candidate at The Australian National University
   <h3>PhD Student</h3>
     Institution: The Australian National University<br>
     Duration: March 2020 - Present<br>
+  <h3>COVID-19 Genomic Sequencing</h3>
+    I was a member of the team responsible for COVID-19 genomic survelliance in the Australian Capitial Territory during 2020. I recieved cDNA samples and prepared a multiplexed library for Nanopore sequencing.
   <h3>Honours Student</h3>
     Institution: The Australian National University<br>
     Duration: January 2019 - November 2019<br>
@@ -60,8 +62,8 @@ description: PhD Candidate at The Australian National University
     <li>Chancellor's Letter of Commendation 2016/2017/2018 - Flinders University
     <li>Dux - Casterton Secondary College</li>
   <h2>Teaching Experience</h2>
-      <li>Lab demonstrating and report marking in <a href="https://programsandcourses.anu.edu.au/course/BIOL2171">BIOL2171</a> - Biochemistry & Nutrition 2021, & 2022
+      <li>Lab demonstrating and report marking in <a href="https://programsandcourses.anu.edu.au/course/BIOL2171">BIOL2171</a> - Biochemistry & Nutrition 2021 & 2022
       <li>Lab demonstrating and report marking in <a href="https://programsandcourses.anu.edu.au/course/BIOL2142">BIOL2142</a> - General Microbiology 2022
       <li>Workshop Tutor <a href="https://programsandcourses.anu.edu.au/course/BIOL2162">BIOL2162</a> - Molecular Gene Technology 2021 & 2022
       <li>Supervising Undergraduate Research Projects for <a href="https://programsandcourses.anu.edu.au/program/aphsc">PhB Students in 2021 and 2022 </a>
-      <li>Supervising <a href="https://biology.anu.edu.au/study/rsb-student-scholarships-prizes/summer-research-scholarships">Summer Scholar </a>Student Research Projects
+      <li>Supervising <a href="https://biology.anu.edu.au/study/rsb-student-scholarships-prizes/summer-research-scholarships">Summer Scholar </a>Student Research Projects 2022
