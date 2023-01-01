@@ -26,18 +26,18 @@ description: PhD Candidate at The Australian National University
   <h2>Research Experience</h2>
   <h3>PhD Student</h3>
     Institution: The Australian National University<br>
-    Duration: March 2020 - Present<br>
+    Duration: March 2020 - Present
   <h3>COVID-19 Genomic Sequencing</h3>
     I was a member of the team responsible for COVID-19 genomic surveillance in the Australian Capital Territory during 2020. I received cDNA samples and prepared a multiplexed library for Nanopore sequencing.
   <h3>Honours Student</h3>
     Institution: The Australian National University<br>
-    Duration: January 2019 - November 2019<br>
+    Duration: January 2019 - November 2019
   <h3>Summer Scholar</h3>
     Institution: The Australian National University<br>
     Duration: November 2018 - January 2019
   <h3>CSE Summer Research Award</h3>
     Institution: Flinders University<br>
-    Duration: November 2017 - January 2018<br>
+    Duration: November 2017 - January 2018
   <h2>Research Skills</h2>
     <li>Recombinant protein expression + purification (<em>E. coli</em>, <em>N. benthiamana</em>)
     <li>Fast protein liquid chromatography (FPLC) using AKTA systems
