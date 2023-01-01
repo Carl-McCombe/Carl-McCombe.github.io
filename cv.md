@@ -60,7 +60,7 @@ description: PhD Candidate at The Australian National University
     <li>Chancellor's Letter of Commendation 2016/2017/2018 - Flinders University
     <li>Dux - Casterton Secondary College</li>
   <h2>Teaching Experience</h2>
-      <h3>Lab demonstrating and report marking in <a href="https://programsandcourses.anu.edu.au/course/BIOL2171">BIOL2171</a>Biochemistry & Nutrition</h3>
+      <h3>Lab demonstrating and report marking in <a href="https://programsandcourses.anu.edu.au/course/BIOL2171">BIOL2171</a>Biochemistry & Nutrition </h3>
       
       <h3>Lab demonstrating and report marking in <a href="https://programsandcourses.anu.edu.au/course/BIOL2142">BIOL2142</a>General Microbiology</h3>
       
