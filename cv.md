@@ -49,7 +49,13 @@ description: PhD Candidate at The Australian National University
     <li>Western blotting
     <li>Molecular cloning (especially GoldenGate cloning)
     <li>Nanopore library preparation for COVID-19 genome sequencing
-    <li>Programming languages: Python (especially for organising large datasets and data visualisation)</li>  
+    <li>Programming languages: Python (especially for organising large datasets and data visualisation)</li> 
+ <h2>Teaching Experience</h2>
+      <li>Lab demonstrating and report marking in <a href="https://programsandcourses.anu.edu.au/course/BIOL2171">BIOL2171</a> - Biochemistry & Nutrition 2021 & 2022
+      <li>Lab demonstrating and report marking in <a href="https://programsandcourses.anu.edu.au/course/BIOL2142">BIOL2142</a> - General Microbiology 2022
+      <li>Workshop Tutor <a href="https://programsandcourses.anu.edu.au/course/BIOL2162">BIOL2162</a> - Molecular Gene Technology 2021 & 2022
+      <li>Supervising Undergraduate Research Projects for <a href="https://programsandcourses.anu.edu.au/program/aphsc">PhB Students in 2021 and 2022 </a>
+      <li>Supervising <a href="https://biology.anu.edu.au/study/rsb-student-scholarships-prizes/summer-research-scholarships">Summer Scholar </a>Student Research Projects 2022</li>
   <h2>Awards</h2>
     <li><a href="https://biology.anu.edu.au/study/rsb-student-scholarships-prizes/hiroto-naora-graduate-student-travel-scholarship">Hirota Naora Award - Best presentation award at the 2022 Research School of Biology HDR conference
     <li><a href="https://twitter.com/CanberraPG/status/1542266659704115201">Canberra Protein Group award presentation at Combio 2022 </a>
@@ -60,10 +66,4 @@ description: PhD Candidate at The Australian National University
     <li><a href="https://biology.anu.edu.au/about/awards/rsb-directors-prize-honours-2">RSB Director's Prize in Honours - The Australian National University</a>
     <li><a href="https://biology.anu.edu.au/about/awards/ainse-honours-scholarship-stipend">Honours Scholarship - Australian Institute of Nuclear Science and Engineering </a>
     <li>Chancellor's Letter of Commendation 2016/2017/2018 - Flinders University
-    <li>Dux - Casterton Secondary College</li>
-  <h2>Teaching Experience</h2>
-      <li>Lab demonstrating and report marking in <a href="https://programsandcourses.anu.edu.au/course/BIOL2171">BIOL2171</a> - Biochemistry & Nutrition 2021 & 2022
-      <li>Lab demonstrating and report marking in <a href="https://programsandcourses.anu.edu.au/course/BIOL2142">BIOL2142</a> - General Microbiology 2022
-      <li>Workshop Tutor <a href="https://programsandcourses.anu.edu.au/course/BIOL2162">BIOL2162</a> - Molecular Gene Technology 2021 & 2022
-      <li>Supervising Undergraduate Research Projects for <a href="https://programsandcourses.anu.edu.au/program/aphsc">PhB Students in 2021 and 2022 </a>
-      <li>Supervising <a href="https://biology.anu.edu.au/study/rsb-student-scholarships-prizes/summer-research-scholarships">Summer Scholar </a>Student Research Projects 2022
+    <li>Dux - Casterton Secondary College
