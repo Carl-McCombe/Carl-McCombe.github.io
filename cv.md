@@ -39,7 +39,6 @@ description: PhD Candidate at The Australian National University
     Institution: Flinders University<br>
     Duration: November 2017 - January 2018<br>
   <h2>Research Skills</h2>
-  <ul>
     <li>Recombinant protein expression + purification (<em>E. coli</em>, <em>N. benthiamana</em>)
     <li>Fast protein liquid chromatography (FPLC) using AKTA systems
     <li>Various enzyme assays (especially for Nudix hydrolases)
