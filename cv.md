@@ -34,7 +34,7 @@ description: PhD Candidate at The Australian National University
     Duration: January 2019 - November 2019<br>
   <h3>Summer Scholar</h3>
     Institution: The Australian National University<br>
-    Duration: November 2018 - January 2019<br>
+    Duration: November 2018 - January 2019
   <h3>CSE Summer Research Award</h3>
     Institution: Flinders University<br>
     Duration: November 2017 - January 2018<br>
