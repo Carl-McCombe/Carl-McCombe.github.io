@@ -53,7 +53,7 @@ description: PhD Candidate at The Australian National University
       <li>Lab demonstrating and report marking in <a href="https://programsandcourses.anu.edu.au/course/BIOL2171">BIOL2171</a> - Biochemistry & Nutrition 2021 & 2022
       <li>Lab demonstrating and report marking in <a href="https://programsandcourses.anu.edu.au/course/BIOL2142">BIOL2142</a> - General Microbiology 2022
       <li>Workshop Tutor <a href="https://programsandcourses.anu.edu.au/course/BIOL2162">BIOL2162</a> - Molecular Gene Technology 2021 & 2022
-      <li>Supervising Undergraduate Research Projects for <a href="https://programsandcourses.anu.edu.au/program/aphsc">PhB Students in 2021 and 2022 </a>
+      <li>Supervising Undergraduate Research Projects for <a href="https://programsandcourses.anu.edu.au/program/aphsc">PhB Students </a>in 2021 and 2022
       <li>Supervising <a href="https://biology.anu.edu.au/study/rsb-student-scholarships-prizes/summer-research-scholarships">Summer Scholar </a>Student Research Projects 2022</li>
   <h2>Awards</h2>
     <li><a href="https://biology.anu.edu.au/study/rsb-student-scholarships-prizes/hiroto-naora-graduate-student-travel-scholarship">Hirota Naora Award - Best presentation award at the 2022 Research School of Biology HDR conference
