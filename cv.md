@@ -28,7 +28,7 @@ description: PhD Candidate at The Australian National University
     Institution: The Australian National University<br>
     Duration: March 2020 - Present<br>
   <h3>COVID-19 Genomic Sequencing</h3>
-    I was a member of the team responsible for COVID-19 genomic survelliance in the Australian Capitial Territory during 2020. I recieved cDNA samples and prepared a multiplexed library for Nanopore sequencing.
+    I was a member of the team responsible for COVID-19 genomic surveillance in the Australian Capital Territory during 2020. I received cDNA samples and prepared a multiplexed library for Nanopore sequencing.
   <h3>Honours Student</h3>
     Institution: The Australian National University<br>
     Duration: January 2019 - November 2019<br>
