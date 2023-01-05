@@ -7,8 +7,8 @@ description: PhD Candidate at The Australian National University
 ## Publications
 
 **Carl L. McCombe**, Ann-Maree Catanzariti, Julian R. Greenwood, Anna M. Desai, Megan A. Outram, Daniel S. Yu, Daniel J. Ericsson, Steven E. Brenner, Peter N. Dodds, Bostjan Kobe, David A. Jones, and Simon J. Williams (2023)<br>
-**[A rust-fungus Nudix hydrolase effector decaps mRNA _in vitro_ and interferes with plant immune pathways](TBA)**, _New Phytologist_<br>
-[PDF](/assets/papers/TBA)
+**[A rust-fungus Nudix hydrolase effector decaps mRNA _in vitro_ and interferes with plant immune pathways](TBA)**, _Accepted for publication in New Phytologist_<br>
+[PDF coming soon](/assets/papers/TBA)
 
 Daniel S. Yu, Megan A. Outram, Ashley Smith, **Carl L. McCombe**, Pravin B.
 Khambalkar, Sharmin A. Rima, Xizhe Sun, Lisong Ma, Daniel J. Ericsson, David A.
