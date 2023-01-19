@@ -1,3 +1,9 @@
+---
+layout: default
+title: CarlMcCombe
+description: PhD Candidate at The Australian National University
+---
+
 # Electron density maps 
 ## From [Fol effector](https://doi.org/10.1101/2021.12.14.472499) publication 
 ### Avr1 
