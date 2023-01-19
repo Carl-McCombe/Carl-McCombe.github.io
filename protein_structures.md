@@ -14,7 +14,7 @@ AvrM14-A Monomer | PDB ID: [8DP8](https://www.rcsb.org/structure/unreleased/8DP8
 
 ![AvrM14-A Monomeric Structure](/assets/images/avrm14_a_monomer.png)
 
-<iframe style="height:500px;width:100%" src="/assets/pdbs/uglymol.html#id=8DP8"></iframe>
+<iframe style="height:500px;width:100%" src="https://carl-mccombe.github.io/assets/pdbs/uglymol.html#id=8DP8"></iframe>
 
 AvrM14-B Monomer | PDB ID: [8DP9](https://www.rcsb.org/structure/unreleased/8DP9)
 
