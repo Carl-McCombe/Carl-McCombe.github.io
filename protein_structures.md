@@ -9,7 +9,7 @@ description: PhD Candidate at The Australian National University
 
 I am completing my PhD in the [Williams Lab](https://biology.anu.edu.au/research/groups/williams-group-plant-structural-immunology) at The Australian National University. We are a 'Plant Structural Immunology' group, meaning that our research centres around understanding plant diseases and immunity by determining the 3-D structures of proteins involved in pathogenesis. As protein structure is a key determinant of protein function, we can use the structures to work out how the proteins function to prevent or promote disease.
 
-<iframe style="height:500px;width:100%" src="https://carl-mccombe.github.io/assets/pdbs/uglymol.html#id=3k0n"></iframe>
+<iframe style="height:500px;width:100%" src="https://carl-mccombe.github.io/assets/pdbs/uglymol.html#id=7t6a"></iframe>
 
 # Protein Structures 
 AvrM14-A Monomer | PDB ID: [8DP8](https://www.rcsb.org/structure/unreleased/8DP8)
