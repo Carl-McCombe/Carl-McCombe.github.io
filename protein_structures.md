@@ -10,6 +10,8 @@ description: PhD Candidate at The Australian National University
 I am completing my PhD in the [Williams Lab](https://biology.anu.edu.au/research/groups/williams-group-plant-structural-immunology) at The Australian National University. We are a 'Plant Structural Immunology' group, meaning that our research centres around understanding plant diseases and immunity by determining the 3-D structures of proteins involved in pathogenesis. As protein structure is a key determinant of protein function, we can use the structures to work out how the proteins function to prevent or promote disease.
 
 # Protein Structures 
+If you're interested in checking out the electron density maps for any structures included in any of my publications, see [here](electron_densities.md)
+
 AvrM14-A Monomer | PDB ID: [8DP8](https://www.rcsb.org/structure/unreleased/8DP8)
 
 ![AvrM14-A Monomeric Structure](/assets/images/avrm14_a_monomer.png)
