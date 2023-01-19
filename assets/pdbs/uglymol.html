@@ -75,10 +75,10 @@
     V = new UM.Viewer({viewer: "viewer", hud: "hud", help: "help"});
     G = null;
     function load_from_pdbe(id, callback) {
-      V.load_pdb('/assets/pdbs/' + id + '.pdb', {},
+      V.load_pdb('https://carl-mccombe.github.io/assets/pdbs/' + id + '.pdb', {},
                  function () {
           UM.load_maps_from_mtz(G, V,
-            '/assets/pdbs/' + id + '.mtz',
+            'https://carl-mccombe.github.io/assets/pdbs/' + id + '.mtz',
             null, callback);
       });
     }
@@ -86,7 +86,7 @@
       G = Module;
       UM.set_pdb_and_mtz_dropzone(G, V, V.renderer.domElement);
       var id_match = window.location.href.match(/[?#]id=([^&#]+)/);
-      load_from_pdbe(id_match[1].toLowerCase());
+      load_from_pdbe(id_match[1]);
     }
     GemmiMtz().then(setup);
   </script>
