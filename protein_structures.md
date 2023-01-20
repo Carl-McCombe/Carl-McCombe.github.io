@@ -14,12 +14,7 @@ If you're interested in checking out the electron density maps for any structure
 
 AvrM14-A Monomer | PDB ID: [8DP8](https://www.rcsb.org/structure/unreleased/8DP8)
 
-![AvrM14-A Monomeric Structure](/assets/images/avrm14_a_monomer.png)
-
-<script src="https://3Dmol.org/build/3Dmol-min.js"></script>     
-<script src="https://3Dmol.org/build/3Dmol.ui-min.js"></script>     
-
-<div style="height: 400px; width: 400px; position: relative;" class='viewer_3Dmoljs' data-href='/assets/pdbs/7t6a.pdb' data-backgroundcolor='0xffffff' data-style='stick' data-ui='true'></div>       
+![AvrM14-A Monomeric Structure](/assets/images/avrm14_a_monomer.png) 
 
 AvrM14-B Monomer | PDB ID: [8DP9](https://www.rcsb.org/structure/unreleased/8DP9)
 
