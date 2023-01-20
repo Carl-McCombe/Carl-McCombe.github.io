@@ -18,6 +18,7 @@ The overexpression of AvrM14 inhibits plant immune activation in flax and _N. be
 
 ### Gene expression data
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~CarlM36/1.embed"></iframe>
 
 ### Structure 
 - Experimentally determined - 1.76 A
