@@ -22,7 +22,10 @@ Characterisation by [McCombe et al](https://doi.org/10.1111/nph.18727)
 ### Structure 
 - Experimentally determined
 
+<script src="https://3Dmol.org/build/3Dmol-min.js"></script>     
+<script src="https://3Dmol.org/build/3Dmol.ui-min.js"></script>     
 
+<div style="height: 400px; width: 400px; position: relative;" class='viewer_3Dmoljs' data-href='/assets/pdbs/8DPA.pdb' data-backgroundcolor='0xffffff' data-style='stick' data-ui='true'></div>
 
 Predicted function from structure:
 
