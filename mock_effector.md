@@ -26,9 +26,8 @@ Experimentally determined: [8DPA](https://www.rcsb.org/structure/unreleased/8DPA
 **Predicted function from structure:**<br>
 Nudix hydrolase enzyme<br>
 **Sequence and/or structure-related effectors**<br>
-- [205051](https://mycocosm.jgi.doe.gov/cgi-bin/dispGeneModel?db=Melli1&id=205051) from _Melampsora lini_
-- [1051139](https://mycocosm.jgi.doe.gov/cgi-bin/dispGeneModel?db=Melme_tre1&id=1051139) from _Melampsora medusae_
-
+- [205051](https://mycocosm.jgi.doe.gov/cgi-bin/dispGeneModel?db=Melli1&id=205051) from _Melampsora lini_<br>
+- [1051139](https://mycocosm.jgi.doe.gov/cgi-bin/dispGeneModel?db=Melme_tre1&id=1051139) from _Melampsora medusae_<br>
 **Protein sequence**<br>
 MKFGIIFLALFFVTISHVLCAGNNDLKNVKAIAIVYRELSDGSQTVLLAKMKGLADEKGWMFVRGHVREDEEADPGVAAIRETQEETGFTGMVKKSGAPFTQPGSKDTQRVITIHPHIVQVQEASKSKDTEDTVKRQFLWVHPSEVRSKLQRAEMIQAWDQLHSFF<br>
 ### References 
