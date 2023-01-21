@@ -34,7 +34,8 @@ Nudix hydrolase enzyme
 
 **Sequence and/or structure-related effectors**
 
-- 
+- [205051](https://mycocosm.jgi.doe.gov/cgi-bin/dispGeneModel?db=Melli1&id=205051) from _Melampsora lini_
+- [1051139](https://mycocosm.jgi.doe.gov/cgi-bin/dispGeneModel?db=Melme_tre1&id=1051139) from _Melampsora medusae_
 
-**Protein sequence **<br>
+**Protein sequence**<br>
 MKFGIIFLALFFVTISHVLCAGNNDLKNVKAIAIVYRELSDGSQTVLLAKMKGLADEKGWMFVRGHVREDEEADPGVAAIRETQEETGFTGMVKKSGAPFTQPGSKDTQRVITIHPHIVQVQEASKSKDTEDTVKRQFLWVHPSEVRSKLQRAEMIQAWDQLHSFF
