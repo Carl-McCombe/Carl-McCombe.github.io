@@ -6,12 +6,10 @@
 **SignalP 3.0** = 0.89 - Cleavage site: VLC | AGNN<br>
 **EffectorP** = 0.984 - Cytoplasmic effector<br>
 **Gene expression during infection** - Yes<br>
-
 ### Experimental characterisation
 Two identified alleleic variants, AvrM14-A (recognised by flax M1 and M4 NLRs) and AvrM14-B (not recognised)<sup>(1)</sup>.<br>  
 AvrM14 is an extremely selective enzyme capable of removing the protective 5' cap from mRNA transcripts _in vitro_<sup>(2)</sup>. AvrM14 may act as a homodimer<sup>(2)</sup>.<br>
 The overexpression of AvrM14 inhibits plant immune activation in flax and _N. benthamiana_, this is dependant on enzymatic activity<sup>(2)</sup>.<br>
-
 ### Gene expression data
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~CarlM36/1.embed"></iframe>
 ### Protein Structure 
