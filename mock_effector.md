@@ -16,20 +16,16 @@ The overexpression of AvrM14 inhibits plant immune activation in flax and _N. be
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~CarlM36/1.embed"></iframe>
 
-### Structure 
+### Protein Structure 
 Experimentally determined: [8DPA](https://www.rcsb.org/structure/unreleased/8DPA)
 
 <script src="https://3Dmol.org/build/3Dmol-min.js"></script>     
 <script src="https://3Dmol.org/build/3Dmol.ui-min.js"></script>     
 
 <div style="height: 400px; width: 800px; position: relative;" class='viewer_3Dmoljs' data-href='/assets/pdbs/8DPA.pdb' data-backgroundcolor='0xffffff' data-style='cartoon:color=spectrum'></div>
-
-**Predicted function from structure:**
-
-Nudix hydrolase enzyme 
-
-**Sequence and/or structure-related effectors**
-
+**Predicted function from structure:**<br>
+Nudix hydrolase enzyme<br>
+**Sequence and/or structure-related effectors**<br>
 - [205051](https://mycocosm.jgi.doe.gov/cgi-bin/dispGeneModel?db=Melli1&id=205051) from _Melampsora lini_
 - [1051139](https://mycocosm.jgi.doe.gov/cgi-bin/dispGeneModel?db=Melme_tre1&id=1051139) from _Melampsora medusae_
 
