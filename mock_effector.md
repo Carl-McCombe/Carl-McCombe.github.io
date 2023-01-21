@@ -12,10 +12,6 @@ Two identified alleleic variants, AvrM14-A (recognised by flax M1 and M4 NLRs) a
 AvrM14 is an extremely selective enzyme capable of removing the protective 5' cap from mRNA transcripts _in vitro_(2). AvrM14 may act as a homodimer(2).<br>
 The overexpression of AvrM14 inhibits plant immune activation in flax and _N. benthamiana_, this is dependant on enzymatic activity(2).<br>
 
-### Publications 
-1) [Anderson et al](https://doi.org/10.1186/s12864-016-3011-9)<br>
-2) [McCombe et al](https://doi.org/10.1111/nph.18727)<br>
-
 ### Gene expression data
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~CarlM36/1.embed"></iframe>
@@ -38,4 +34,7 @@ Nudix hydrolase enzyme
 - [1051139](https://mycocosm.jgi.doe.gov/cgi-bin/dispGeneModel?db=Melme_tre1&id=1051139) from _Melampsora medusae_
 
 **Protein sequence**<br>
-MKFGIIFLALFFVTISHVLCAGNNDLKNVKAIAIVYRELSDGSQTVLLAKMKGLADEKGWMFVRGHVREDEEADPGVAAIRETQEETGFTGMVKKSGAPFTQPGSKDTQRVITIHPHIVQVQEASKSKDTEDTVKRQFLWVHPSEVRSKLQRAEMIQAWDQLHSFF
+MKFGIIFLALFFVTISHVLCAGNNDLKNVKAIAIVYRELSDGSQTVLLAKMKGLADEKGWMFVRGHVREDEEADPGVAAIRETQEETGFTGMVKKSGAPFTQPGSKDTQRVITIHPHIVQVQEASKSKDTEDTVKRQFLWVHPSEVRSKLQRAEMIQAWDQLHSFF<br>
+### References 
+1) [Anderson et al](https://doi.org/10.1186/s12864-016-3011-9)<br>
+2) [McCombe et al](https://doi.org/10.1111/nph.18727)<br>
