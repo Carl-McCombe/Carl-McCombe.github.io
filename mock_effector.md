@@ -18,7 +18,7 @@ Experimentally determined: [8DPA](https://www.rcsb.org/structure/unreleased/8DPA
 <script src="https://3Dmol.org/build/3Dmol.ui-min.js"></script>     
 <div style="height: 400px; width: 800px; position: relative;" class='viewer_3Dmoljs' data-href='/assets/pdbs/8DPA.pdb' data-backgroundcolor='0xffffff' data-style='cartoon:color=spectrum'></div>
 **Predicted function from structure:**<br>
-Nudix hydrolase enzyme<br>
+[Nudix hydrolase enzyme](link_to_other_Nudix_Zymo_effectors)<br>
 **Sequence and/or structure-related effectors**<br>
 - [205051](https://mycocosm.jgi.doe.gov/cgi-bin/dispGeneModel?db=Melli1&id=205051) from _Melampsora lini_<br>
 - [1051139](https://mycocosm.jgi.doe.gov/cgi-bin/dispGeneModel?db=Melme_tre1&id=1051139) from _Melampsora medusae_
