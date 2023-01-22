@@ -21,5 +21,5 @@ Thank you for visiting my website!
     Email: carl.mccombe@anu.edu.au<br>
     <br>
     <a href="https://twitter.com/Carl_McCombe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Carl_McCombe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    <img align="right" style="padding: 15px" width="300" height="400" src="https://carl-mccombe.github.io/assets/images/carl.png" />
+    <img align="middle" style="padding: 15px" width="300" height="400" src="https://carl-mccombe.github.io/assets/images/carl.png" />
 
