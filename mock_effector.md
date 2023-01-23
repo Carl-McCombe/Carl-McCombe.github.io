@@ -14,7 +14,8 @@ The overexpression of AvrM14 inhibits plant immune activation in flax and _N. be
 ATG......
 Chromosome 2 156748:156980 (+)
 Present in isolates: ......
--------------------------------------
+
+ -----------------------------------
 |                                   |
 |                                   |
 |                                   | 
@@ -22,7 +23,7 @@ Present in isolates: ......
 |                                   |
 |                                   |
 |                                   |
--------------------------------------
+ -----------------------------------
 
 ### Gene expression data
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~CarlM36/1.embed"></iframe>
