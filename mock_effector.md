@@ -35,4 +35,5 @@ Experimentally determined: [8DPA](https://www.rcsb.org/structure/unreleased/8DPA
 ### References 
 1) [Anderson et al](https://doi.org/10.1186/s12864-016-3011-9)<br>
 2) [McCombe et al](https://doi.org/10.1111/nph.18727)<br>
-[FASTA Gene]()  [FASTA Protein]()
+<button style="background-color:blue; border-color:black; color:white">FASTA gene</button>
+<button style="background-color:blue; border-color:black; color:white">FASTA protein</button>
