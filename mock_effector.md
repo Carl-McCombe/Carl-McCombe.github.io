@@ -36,5 +36,5 @@ Experimentally determined: [8DPA](https://www.rcsb.org/structure/unreleased/8DPA
 1) [Anderson et al](https://doi.org/10.1186/s12864-016-3011-9)<br>
 2) [McCombe et al](https://doi.org/10.1111/nph.18727)<br>
 
-<a href="{{ site.url }}/index.html" class="btn" role="button">FASTA Gene</a>
-<a href="{{ site.url }}/index.html" class="btn" role="button">FASTA Protein</a>
+<a href="{{ site.url }}/index.html" class="btn btn-success" role="button">FASTA Gene</a>
+<a href="{{ site.url }}/index.html" class="btn btn-success" role="button">FASTA Protein</a>
