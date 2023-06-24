@@ -72,7 +72,7 @@ I have acted as a reviewer for;
 
 - [Journal of Experimental Botany](https://academic.oup.com/jxb)
 
-## Conference Presentations (+ awards)
+## Conference Presentations
 
 - Stromlo plant-microbe interactions 2022
 - RSB HDR Conference 2022 (Best Presentation - Plant Sciences Division)
