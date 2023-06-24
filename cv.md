@@ -63,17 +63,12 @@ description: PhD Candidate at The Australian National University
     <li><a href="https://biology.anu.edu.au/about/awards/rsb-directors-prize-honours-2">RSB Director's Prize in Honours - The Australian National University</a>
     <li><a href="https://biology.anu.edu.au/about/awards/ainse-honours-scholarship-stipend">Honours Scholarship - Australian Institute of Nuclear Science and Engineering </a>
     <li>Chancellor's Letter of Commendation 2016/2017/2018 - Flinders University
-    <li>Dux - Casterton Secondary College
-
-
-## Reviewer Activity
-I have acted as a reviewer for;
-
-- [Journal of Experimental Botany](https://academic.oup.com/jxb)
-
-## Conference Presentations
-
-- Stromlo plant-microbe interactions 2022
-- RSB HDR Conference 2022 (Best Presentation - Plant Sciences Division)
-- Combio 2022 (Canberra Protein Group Award Presentation)
-- East Coast Protein Meeting 2022 (Runner-up best student talk)
+    <li>Dux - Casterton Secondary College</li>
+  <h2>Reviewer Activity</h2>
+I have acted as a reviewer for;<br>
+    <li><a href="https://academic.oup.com/jxb">Journal of Experimental Botany</a>
+  <h2>Conference Presentations</h2>
+    <li>Stromlo plant-microbe interactions 2022
+    <li>RSB HDR Conference 2022 (Best Presentation - Plant Sciences Division)
+    <li>Combio 2022 (Canberra Protein Group Award Presentation)
+    <li>East Coast Protein Meeting 2022 (Runner-up best student talk)
