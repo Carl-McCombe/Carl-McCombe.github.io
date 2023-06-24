@@ -6,7 +6,13 @@ description: PhD Candidate at The Australian National University
 
 ## Animations
 
+Plant NLRs like ZAR1 can act as plasma-membrane calcium ion channels to initiate the hypersensitive plant immune response. 
+<video src="https://carl-mccombe.github.io/assets/zar1.mov" controls="controls" style="max-width: 730px;">
+</video>
 
+The AvrM14 structure with residues animated using B-factor values in Molecular Nodes.
+<video src="https://carl-mccombe.github.io/assets/avrm14.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 ## Single Image Renders
 
