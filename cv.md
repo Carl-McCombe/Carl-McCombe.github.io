@@ -66,7 +66,7 @@ description: PhD Candidate at The Australian National University
     <li><a href="https://biology.anu.edu.au/about/awards/ainse-honours-scholarship-stipend">Honours Scholarship - Australian Institute of Nuclear Science and Engineering </a>
     <li>Chancellor's Letter of Commendation 2016/2017/2018 - Flinders University
     <li>Dux - Casterton Secondary College
-
+    </li>
 ## Reviewer Activity
 I have acted as a reviewer for;
 
