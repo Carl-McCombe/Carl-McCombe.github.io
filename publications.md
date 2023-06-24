@@ -6,7 +6,10 @@ description: PhD Candidate at The Australian National University
 
 ## Publications
 
-### Plant immunity manipulation via an mRNA decapping effector
+<div style='text-align: center;'>
+  ### Plant immunity manipulation via an mRNA decapping effector
+</div>
+
 <p align="center">
 	<img src="https://carl-mccombe.github.io/assets/images/Fig3_AvrM14.jpg" height="300">
 </p>
@@ -27,6 +30,8 @@ Khambalkar, Sharmin A. Rima, Xizhe Sun, Lisong Ma, Daniel J. Ericsson, David A.
 Jones, and Simon J. Williams (2022)<br>
 **[The structural repertoire of Fusarium oxysporum f. sp. lycopersici effectors revealed by experimental and computational studies](https://doi.org/10.1101/2021.12.14.472499)**, _bioXriv_<br>
 [PDF](/assets/papers/Yu_2022.pdf)
+
+### How fungal infection strategy can dictate the outcome of plant-pathogen interactions
 <p align="center">
 <img src="https://carl-mccombe.github.io/assets/images/review_fig.jpg" height="300">
 </p>
