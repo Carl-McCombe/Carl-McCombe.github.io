@@ -48,7 +48,7 @@ description: PhD Candidate at The Australian National University
     <li>Nanopore library preparation for COVID-19 genome sequencing
     <li>Programming languages: Python (especially for organising large datasets and data visualisation)</li> 
  <h2>Teaching Experience</h2>
-      <li>Lab demonstrating and report marking in <a href="https://programsandcourses.anu.edu.au/course/BIOL2171">BIOL2171</a> - Biochemistry & Nutrition 2021 & 2022
+      <li>Lab demonstrating and report marking in <a href="https://programsandcourses.anu.edu.au/course/BIOL2171">BIOL2171</a> - Biochemistry & Nutrition 2021, 2022 & 2023
       <li>Lab demonstrating and report marking in <a href="https://programsandcourses.anu.edu.au/course/BIOL2142">BIOL2142</a> - General Microbiology 2022
       <li>Workshop Tutor <a href="https://programsandcourses.anu.edu.au/course/BIOL2162">BIOL2162</a> - Molecular Gene Technology 2021 & 2022
       <li>Supervising Undergraduate Research Projects for <a href="https://programsandcourses.anu.edu.au/program/aphsc">PhB Students </a>in 2021 and 2022
