@@ -6,10 +6,7 @@ description: PhD Candidate at The Australian National University
 
 ## Publications
 
-<div style='text-align: center;'>
-  ### Plant immunity manipulation via an mRNA decapping effector
-</div>
-
+### Plant immunity manipulation via an mRNA decapping effector
 <p align="center">
 	<img src="https://carl-mccombe.github.io/assets/images/Fig3_AvrM14.jpg" height="300">
 </p>
