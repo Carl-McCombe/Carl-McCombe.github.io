@@ -18,15 +18,18 @@ description: PhD Candidate at The Australian National University
 Commentary by [Mark J. Banfield](https://doi.org/10.1111/nph.18921)
 
 ### Characterising the structural repertoire of Fusarium oxysporum effectors
+<p align="center">
 <img src="https://carl-mccombe.github.io/assets/images/F3.jpg" height="300">
+</p>
 
 Daniel S. Yu, Megan A. Outram, Ashley Smith, **Carl L. McCombe**, Pravin B.
 Khambalkar, Sharmin A. Rima, Xizhe Sun, Lisong Ma, Daniel J. Ericsson, David A.
 Jones, and Simon J. Williams (2022)<br>
 **[The structural repertoire of Fusarium oxysporum f. sp. lycopersici effectors revealed by experimental and computational studies](https://doi.org/10.1101/2021.12.14.472499)**, _bioXriv_<br>
 [PDF](/assets/papers/Yu_2022.pdf)
-
+<p align="center">
 <img src="https://carl-mccombe.github.io/assets/images/review_fig.jpg" height="300">
+</p>
 
 **Carl L. McCombe**, Julian R. Greenwood, Peter S. Solomon, and Simon J. Williams (2022)<br>
 **[Molecular plant immunity against biotrophic, hemibiotrophic, and necrotrophic fungi](https://doi.org/10.1042/EBC20210073)**, _Essays in Biochemistry_<br>
