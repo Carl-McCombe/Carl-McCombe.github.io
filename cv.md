@@ -66,3 +66,15 @@ description: PhD Candidate at The Australian National University
     <li><a href="https://biology.anu.edu.au/about/awards/ainse-honours-scholarship-stipend">Honours Scholarship - Australian Institute of Nuclear Science and Engineering </a>
     <li>Chancellor's Letter of Commendation 2016/2017/2018 - Flinders University
     <li>Dux - Casterton Secondary College
+## Reviewer Activity
+
+I have acted as a reviewer for;
+
+- [Journal of Experimental Botany](https://academic.oup.com/jxb)
+
+## Conference Presentations (+ awards)
+
+- Stromlo plant-microbe interactions 2022
+- RSB HDR Conference 2022 (Best Presentation - Plant Sciences Division)
+- Combio 2022 (Canberra Protein Group Award Presentation)
+- East Coast Protein Meeting 2022 (Runner-up best student talk)
