@@ -7,7 +7,9 @@ description: PhD Candidate at The Australian National University
 ## Publications
 
 ### Plant immunity manipulation via an mRNA decapping effector
-<img src="https://carl-mccombe.github.io/assets/images/Fig3_AvrM14.jpg" height="300">
+<p align="center">
+	<img src="https://carl-mccombe.github.io/assets/images/Fig3_AvrM14.jpg" height="300">
+</p>
 
 **Carl L. McCombe**, Ann-Maree Catanzariti, Julian R. Greenwood, Anna M. Desai, Megan A. Outram, Daniel S. Yu, Daniel J. Ericsson, Steven E. Brenner, Peter N. Dodds, Bostjan Kobe, David A. Jones, and Simon J. Williams (2023)<br>
 **[A rust-fungus Nudix hydrolase effector decaps mRNA _in vitro_ and interferes with plant immune pathways](https://doi.org/10.1111/nph.18727)**, _New Phytologist_<br>
