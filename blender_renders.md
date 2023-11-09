@@ -4,12 +4,20 @@ title: CarlMcCombe
 description: PhD Candidate at The Australian National University
 ---
 
+## Animations
+
+Plant NLRs like ZAR1 can act as plasma-membrane calcium ion channels to initiate the hypersensitive plant immune response. 
+<video src="https://carl-mccombe.github.io/assets/zar1.mov" controls="controls" style="max-width: 730px;">
+</video>
+
+The AvrM14 structure with residues animated using B-factor values in Molecular Nodes.
+<video src="https://carl-mccombe.github.io/assets/avrm14.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
 ## Single Image Renders
 
 Render 1: An agar plate with E. coli colonies, one of my first blender renders assisted by a [Luminous Lab](https://www.youtube.com/c/LuminousLab) tutorial.
 ![Agar plate with bacterial colonies](/assets/images/agar_plate.png)
-
-Render 2:
 
 ## Cover Images 
 
