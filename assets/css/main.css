@@ -3107,7 +3107,7 @@ input, select, textarea {
 	}
 /* Add custom styles for text-box */
 .text-box {
-  display: none; /* Hidden by default */
+  display: block; /*Change to none to make hidden by default */
   margin-top: 20px; /* Adds space above the text box */
   padding: 10px; /* Adds space inside the text box */
   background-color: #f9f9f9; /* Optional: changes the background color */
