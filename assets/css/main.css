@@ -2596,7 +2596,67 @@ input, select, textarea {
 					color: #fff;
 					border-color: #616763;
 				}
+/* Bannerf */
 
+	#bannerf {
+		position: relative;
+		background-image: url("images/overlay.png"), url("images/overlay.png"), url("../../images/bannerf.jpg");
+		background-position: top left, top left, center center;
+		background-repeat: repeat, repeat, no-repeat;
+		background-size: auto, auto, cover;
+		z-index: 1;
+		padding: 11em 0;
+	}
+
+		#bannerf .content {
+			position: relative;
+			background-color: rgba(21, 28, 23, 0.85);
+			background-image: url("images/overlay.png"), url("images/highlight.png");
+			background-position: top left, center center;
+			background-size: auto, 100% 250%;
+			background-repeat: repeat, no-repeat;
+			text-align: center;
+			margin: 0;
+			padding: 4em 0 3.5em 0;
+		}
+
+			#bannerf .content h2 {
+				color: #fff;
+				font-size: 2.75em;
+				margin: 0 0 0.5em 0;
+			}
+
+			#bannerf .content p {
+				display: block;
+				font-family: 'Open Sans Condensed', sans-serif;
+				font-weight: 700;
+				text-transform: uppercase;
+				color: #575d59;
+				font-size: 1.35em;
+				margin: 0 0 1.25em 0;
+			}
+
+			#bannerf .content .button {
+				-moz-transition: border-color .2s ease-in-out, color .2s ease-in-out;
+				-webkit-transition: border-color .2s ease-in-out, color .2s ease-in-out;
+				-ms-transition: border-color .2s ease-in-out, color .2s ease-in-out;
+				transition: border-color .2s ease-in-out, color .2s ease-in-out;
+				color: #b4b7b5;
+				background: transparent !important;
+				border: solid 4px #575d59;
+				border-color: rgba(87, 93, 89, 0.35);
+				font-size: 1.5em;
+			}
+
+				#bannerf .content .button:hover {
+					color: #e4e7e5;
+					border-color: rgba(87, 93, 89, 0.75);
+				}
+
+				#bannerf .content .button:active {
+					color: #fff;
+					border-color: #616763;
+				}
 /* Main */
 
 	#main {
@@ -2750,6 +2810,23 @@ input, select, textarea {
 					#bannerp .content p {
 						margin: 0 0 1em 0;
 					}
+		/* Bannerf */
+
+			#bannerf {
+				padding: 6em 0;
+			}
+
+				#bannerf .content {
+					padding: 4em 0 3em 0;
+				}
+
+					#bannerf .content h2 {
+						margin: 0 0 0.65em 0;
+					}
+
+					#bannerf .content p {
+						margin: 0 0 1em 0;
+					}
 		/* Main */
 
 			#main {
@@ -2800,6 +2877,11 @@ input, select, textarea {
 		/* Bannerp */
 
 			#bannerp {
+				padding: calc(14em + 44px) 0 14em 0;
+			}
+		/* Bannerf */
+
+			#bannerf {
 				padding: calc(14em + 44px) 0 14em 0;
 			}
 		/* Nav */
@@ -3159,6 +3241,23 @@ input, select, textarea {
 					}
 
 					#bannerp .content p {
+						font-size: 1.25em;
+					}
+		/* Bannerf */
+
+			#bannerf {
+				padding: calc(6em + 44px) 0 6em 0;
+			}
+
+				#bannerf .content {
+					padding: 4em 2.5em 3em 2.5em;
+				}
+
+					#bannerf .content h2 {
+						font-size: 2em;
+					}
+
+					#bannerf .content p {
 						font-size: 1.25em;
 					}
 
